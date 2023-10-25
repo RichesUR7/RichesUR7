@@ -1,0 +1,5 @@
+#include <stdio.h>
+int main() {
+printf("Riches is a gunius in science");
+return (0);
+}
